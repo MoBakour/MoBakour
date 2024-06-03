@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi there! I am Mohamed Bakour (aka: Swordax)<br>🙋‍♂️ I am a passionate Software Engineering student<br>🔭 I love to explore and learn new technologies<br>👨‍💻 In love with TypeScript & Node.js<br>💫 Excited for the future<br>💬 Let's talk!
+👋 Hi there! I am Mohamed Bakour (aka: Swordax)<br>🙋‍♂️ I am a passionate Software Engineering student<br>🔭 I love to explore and learn new technologies<br>👨‍💻 In love with TypeScript & Node.js<br>💫 Excited for the future<br>💬 Let's chat!
 
 ## 🌐 Socials:
 
